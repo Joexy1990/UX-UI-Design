@@ -1,2 +1,2 @@
 # UX-UI-Design
-Work on our hoepage and collaborate wit a partner
+Work on our homepage and collaborate wit a partner.
